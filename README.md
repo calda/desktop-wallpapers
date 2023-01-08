@@ -9,7 +9,7 @@ View from the Kalalau Trail in Napali Coast State Park on Kauai, 11/25/22
 
 <p>
 <img src="Desktop Wallpapers/Crater Lake I.jpeg"/>
-View from Sinnott Overlook in Crater Lake Nation Park, 10/3/22
+View from Sinnott Overlook in Crater Lake National Park, 10/3/22
 </p>
 
 <p>
