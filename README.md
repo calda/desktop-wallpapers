@@ -3,6 +3,11 @@
 Nature photos I've taken that I cycle as my desktop wallpaper
 
 <p>
+<img src="Desktop Wallpapers/Kotor I.jpeg"/>
+Ladder of Kotor trail in Kotor, Montenegro, 5/23/23
+</p>
+
+<p>
 <img src="Desktop Wallpapers/White Sands I.jpeg"/>
 White Sands National Park in New Mexico, 4/13/23
 </p>
