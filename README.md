@@ -3,23 +3,23 @@
 Nature photos I've taken that I cycle as my desktop wallpaper
 
 <p>
+<img src="Desktop Wallpapers/McCullough Gulch.jpeg"/>
+Upper lake meadow on the McCullough Gulch trail, Breckenridge, CO, 7/5/24
+</p>
+
+<p>
+<img src="Desktop Wallpapers/Lanikai Pillbox.jpeg"/>
+Lanikai Pillbox #2, Kailua, Oahu, 6/29/24
+</p>
+
+<p>
 <img src="Desktop Wallpapers/Kotor I.jpeg"/>
 Ladder of Kotor trail in Kotor, Montenegro, 5/23/23
 </p>
 
 <p>
-<img src="Desktop Wallpapers/White Sands I.jpeg"/>
-White Sands National Park in New Mexico, 4/13/23
-</p>
-
-<p>
 <img src="Desktop Wallpapers/Angels Landing II.jpeg"/>
 View from Angels Langing in Zion National Park, 12/15/23
-</p>
-
-<p>
-<img src="Desktop Wallpapers/Kalalau Trail.jpeg"/>
-View from the Kalalau Trail in Napali Coast State Park on Kauai, 11/25/22
 </p>
 
 <p>
