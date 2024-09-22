@@ -3,6 +3,11 @@
 Nature photos I've taken that I cycle as my desktop wallpaper
 
 <p>
+<img src="Desktop Wallpapers/Pioneer Cabin I.jpeg"/>
+Pioneer Cabin in the Sawtooth National Forest near Sun Valley, ID, 9/1/24
+</p>
+
+<p>
 <img src="Desktop Wallpapers/McCullough Gulch.jpeg"/>
 Upper lake meadow on the McCullough Gulch trail, Breckenridge, CO, 7/5/24
 </p>
